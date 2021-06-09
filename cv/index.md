@@ -18,11 +18,6 @@ Université Libre de Bruxelles (Belgium)
 * **BSc Physics** 2009-2012 \
 Université Libre de Bruxelles (Belgium)
 
-## Languages
-
-* French (native)
-* English (fluent)
-* Dutch (intermediate)
 
 
 
