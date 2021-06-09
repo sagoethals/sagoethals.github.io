@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
+title: Sarah Goethals
+author:
+  name: Sarah Goethals
+  email: sarah.goethals@hotmail.fr
+  
+description: Welcome to my personal page!
+markdown: kramdown
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  https://github.com/sagoethals/
+    linkedin: https://www.linkedin.com/in/sarahgoethals/
+
+
+
+
