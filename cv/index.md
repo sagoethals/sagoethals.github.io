@@ -14,7 +14,8 @@ Institut de la Vision, Sorbonne Université (Paris)\
 Supervisor: Dr. Romain Brette\
 Thesis: [*Impact of axon initial segment geometry on the electrical properties of neurons*](https://sagoethals.github.io/assets/docs/thèse_Sarah_Goethals.pdf)
 * **MSc Physics** 2012-2014 \
-Université Libre de Bruxelles (Belgium)
+Université Libre de Bruxelles (Belgium)\
+Dissertation : *Mean-field principles applied to the study of neurons population activity in the cerebral cortex*
 * **BSc Physics** 2009-2012 \
 Université Libre de Bruxelles (Belgium)
 
