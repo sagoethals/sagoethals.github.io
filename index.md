@@ -4,4 +4,4 @@ For many years, I am also very concerned about **climate change and its conseque
 
 Now I want to continue using theoretical tools to contribute to reducing greenhouse gases emissions and to the **transition to a low-carbon society**. I want to put my time and energy in sectors in which actions can be taken now to reduce our carbon footprint. Many things can be undertaken without the development of new technologies. For instance, we know how to make buildings more energy-efficient or how to improve energy efficiency in industrial facilities. Both these sectors represent a large proportion of the Franch carbon footprint and, in my opinion, are much simpler to initiate than, for instance, a massive change of behavior within the population.
 
-For more information you can contact me via [sarah.goethals@hotmail.fr](mailto:sarah.goethals@hotmail.fr) or look at my [CV](https://sagoethals.github.io/cv/)
+For more information you can contact me via [sarah.goethals@hotmail.fr](mailto:sarah.goethals@hotmail.fr) or look at my [CV](https://sagoethals.github.io/cv/).
